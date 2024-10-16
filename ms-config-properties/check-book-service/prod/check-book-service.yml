@@ -1,1 +1,2 @@
-testfield: prod test
+property:
+  field: prod profile test
